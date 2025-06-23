@@ -315,15 +315,3 @@ MIT License - Feel free to use and modify for your projects.
 4. Test thoroughly
 5. Submit pull request
 
-## 📞 Support
-
-For issues and questions:
-- Check the troubleshooting section
-- Review ADK documentation
-- Create GitHub issues for bugs
-- Join the ADK community forums
-
----
-
-**Ready to explore AI news like never before? Start with `adk web` and dive into the future of intelligent news consumption!** 🚀
-
